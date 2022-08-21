@@ -1,5 +1,5 @@
 # WireFyte
-### Create Networks or Deauth Networks, Bssids and chennels
+### Create Networks or Deauth Networks, Bssids and channels
 
 ### Installation:
 * Linux:
