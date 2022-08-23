@@ -8,8 +8,8 @@
 
 ### Installation:
 * Linux:
-  * `sudo apt update -y`
-  * `sudo apt install python3 python3-pip git -y`
+  * `sudo apt-get update -y`
+  * `sudo apt-get install python3 python3-pip network-manager git -y`
   * `pip3 install colorama scapy`
   * `git clone https://github.com/i-am-unbekannt/WireFyte`
   * `cd WireFyte/`
