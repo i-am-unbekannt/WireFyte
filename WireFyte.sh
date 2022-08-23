@@ -23,7 +23,7 @@ function banner()
 	echo -e "$BOLD_PURPLE | | | |_|___ ___|   __|_ _| |_ ___  $BOLD_CYAN WireFyte"
 	echo -e "$BOLD_PURPLE | | | | |  _| -_|   __| | |  _| -_| $WHITE a wireless deauther by @i_am_unbekannt"
 	echo -e "$BOLD_PURPLE |_____|_|_| |___|__|  |_  |_| |___| $BLUE https://github.com/i-am-unbekannt/WireFyte"
-	echo -e "$BOLD_PURPLE                       |___|         $BLUE https://flowcode.com/page/unbekannt"
+	echo -e "$BOLD_PURPLE                       |___|         $BLUE https://i-am-unbekannt.github.io"
 	echo -e "$BOLD_WHITE"
 }
 
