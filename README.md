@@ -3,7 +3,7 @@
 
 ### window
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/808620387390324746/1023675740732002335/300517237_130044023075646_3722062162862899785_n.jpg">
+  <img src="https://raw.githubusercontent.com/i-am-unbekannt/WireFyte/main/img.jpg">
 </p>
 
 ### Installation:
